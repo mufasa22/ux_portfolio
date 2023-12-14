@@ -83,8 +83,8 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section {
 
 audio,canvas,video {
     display: inline-block;
-    *display: inline;
-    *zoom: 1;
+    display: inline;
+    zoom: 1;
 }
 
 audio:not([controls]) {
@@ -114,12 +114,12 @@ button,input,select,textarea {
     font-size: 100%;
     margin: 0;
     vertical-align: baseline;
-    *vertical-align: middle;
+    vertical-align: middle;
 }
 
 button,input {
     line-height: normal;
-    *overflow: visible;
+    overflow: visible;
 }
 
 button::-moz-focus-inner,input::-moz-focus-inner {
@@ -291,8 +291,8 @@ h1,h2,h3,h4,h5 {
 }
 
 .navbar,.navbar-default,.navbar-static-top {
-    background-color: #2d3640;
-    border-color: #3c4755;
+    background-color: #adffff;
+    border-color: #adffff;
     height: 70px;
 }
 
@@ -302,12 +302,12 @@ h1,h2,h3,h4,h5 {
 }
 
 #undefined-sticky-wrapper,.sticky-wrapper {
-    background: #2d3640;
+    background: #adffff;
     height: 70px !important;
 }
 
 .navbar-default .navbar-collapse,.navbar-default .navbar-form {
-    background: #2d3640;
+    background: #adffff;
     border-color: transparent;
 }
 
@@ -322,7 +322,7 @@ h1,h2,h3,h4,h5 {
 }
 
 .navbar-toggle:hover {
-    background: #2d3640;
+    background: #F8FAF9;
 }
 
 .slider-options {
@@ -542,7 +542,7 @@ html,body {
 }
 
 #about {
-    background: #3c4755;
+    background: #005a5a;
 }
 
 #about p {
@@ -590,7 +590,7 @@ html,body {
 .progress {
     box-shadow: none;
     height: 14px;
-    background: #475364;
+    background: #006666;
     border-radius: 0;
     border: 0;
     margin-bottom: 10px;
@@ -598,11 +598,11 @@ html,body {
 
 .progress-bar {
     box-shadow: none;
-    background: #e46948;
+    background: #009A9A;
 }
 
 #gallery {
-    background: #2d3640;
+    background: #F8FAF9;
 }
 
 .gallery-holder {
@@ -661,7 +661,7 @@ html,body {
 }
 
 #contact {
-    background: #3c4755;
+    background: #005a5a;
     padding-bottom: 70px;
 }
 
@@ -673,12 +673,12 @@ html,body {
     padding: 10px;
     width: 100%;
     margin-bottom: 30px;
-    background: #2d3640;
+    background: #F8FAF9;
     border: 0;
     outline: 0;
     font-size: 13px;
     font-family: 'robotoregular';
-    color: #667991;
+    color: #F8FAF9;
 }
 
 .contact-form textarea {
@@ -705,7 +705,7 @@ html,body {
 }
 
 .site-footer {
-    background: #2d3640;
+    background: #008080;
     padding: 30px 0;
 }
 
